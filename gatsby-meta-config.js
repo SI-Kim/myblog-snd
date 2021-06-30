@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
+  title: `Jaden.io`,
+  description: `개발자입니다`,
   author: `[Sung-il Kim]`,
-  introduction: `공부하다보면 내 것이 된다`,
+  introduction: `배우는게 재밌다`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -16,13 +16,13 @@ module.exports = {
   keywords: [`dev`],
   comment: {
     disqusShortName: 'disqusShortName example', // Your disqus-short-name. check disqus.com.
-    utterances: 'utterances example', // Your repository for archive comment
+    utterances: 'utterances', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'You',
+    buyMeACoffeeId: 'no',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
