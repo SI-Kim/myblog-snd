@@ -2,7 +2,7 @@ module.exports = {
   title: `Jaden.io`,
   description: `개발자입니다`,
   author: `[Sung-il Kim]`,
-  introduction: `배우는게 재밌다`,
+  introduction: `기술의 트랜드를 따라가고싶어`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
