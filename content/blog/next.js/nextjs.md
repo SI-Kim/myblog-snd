@@ -1,7 +1,7 @@
 ---
 title: 'NextJS 란?'
 date: 2021-07-26 21:01:20
-category: 'react'
+category: 'next.js'
 draft: false
 ---
 
