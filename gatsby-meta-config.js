@@ -1,16 +1,13 @@
 module.exports = {
-  title: `Jaden.io`,
-  description: `개발자입니다`,
+  title: `SI-Kim.io`,
+  description: `웹개발자 김성일`,
   author: `[Sung-il Kim]`,
-  introduction: `기술의 트랜드를 따라가고싶어`,
+  introduction: `항상 변화와 배움 사이에서 열정을 불태우는 개발자이고 싶습니다.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
     github: `https://github.com/SI-Kim`, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
-    instagram: ``, // Your Instagram account
+    notion: `https://skim88-skill-book.notion.site/Sung-il-Kim-495105a73ee146948168fa8e76b54383`, // Your Medium account
+
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`dev`],
@@ -23,9 +20,6 @@ module.exports = {
   },
   sponsor: {
     buyMeACoffeeId: 'no',
-  },
-  share: {
-    facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
   ga: '0', // Add your google analytics tranking ID
 }
