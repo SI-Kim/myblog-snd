@@ -58,7 +58,7 @@ Kaprekar Number를 구하는 특정 규칙이 있을 것 같아서 고민했지�
 ```js
 /**
  * @param {Number} p
- * @param {Number} b
+ * @param {Number} q
  * @return {string}
  */
 function kaprekarNumbers(p, q) {
