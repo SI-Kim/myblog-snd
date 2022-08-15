@@ -6,7 +6,6 @@ lang: 'KR/EN'
 
 # 김성일 (Sung-il Kim)
 
-<br>
 
 `Github` : <a href="https://github.com/SI-Kim">Github Link</a>
 <br>
