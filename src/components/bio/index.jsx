@@ -23,7 +23,7 @@ export const Bio = () => (
                 }}
               />
               <div className="author-name">
-                <span className="author-name-prefix">개발자 김성일입니다.</span>
+                <span className="author-name-prefix">웹개발자 김성일</span>
                 <Link to={'/about'} className="author-name-content">
                   <span>@{author}</span>
                 </Link>
@@ -55,6 +55,7 @@ export const Bio = () => (
                       LinkedIn
                     </a>
                   )}
+                    <a href={`https://skim88-skill-book.notion.site/Sung-il-Kim-495105a73ee146948168fa8e76b54383`}>Notion</a>
                 </p>
               </div>
             </div>
