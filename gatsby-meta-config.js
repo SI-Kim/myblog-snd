@@ -3,7 +3,7 @@ module.exports = {
   description: `웹개발자 김성일`,
   author: `[Sung-il Kim]`,
   introduction: `항상 변화와 배움 사이에서 열정을 불태우는 개발자이고 싶습니다.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://si-kim-blog.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `https://github.com/SI-Kim`, // Your GitHub account
