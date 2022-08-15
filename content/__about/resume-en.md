@@ -1,13 +1,13 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
-lang: 'en'
+date: 2022-08-15 17:37:57
+lang: 'KR/EN'
 ---
 
-# Your name
+# 김성일 (Sung-il Kim)
 
-<div align="center">
+<br>
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
-
-</div>
+`Github` : <a href="https://github.com/SI-Kim">Github Link</a>
+<br>
+`Notion` : <a href="https://skim88-skill-book.notion.site/Sung-il-Kim-495105a73ee146948168fa8e76b54383">Notion Link</a>
