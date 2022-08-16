@@ -1,5 +1,5 @@
 ---
-title: '1_Modified Kaprekar Numbers'
+title: 'Modified Kaprekar Numbers - HackerRank / Javascript'
 date: 2022-08-14 21:51:19
 category: 'Algorithms'
 draft: false

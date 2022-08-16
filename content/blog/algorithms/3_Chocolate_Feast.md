@@ -1,5 +1,5 @@
 ---
-title: '3_Chocolate_Feast'
+title: 'Chocolate Feast - HackerRank / Javascript'
 date: 2022-08-16 22:42:17
 category: 'Algorithms'
 draft: false
