@@ -1,7 +1,7 @@
 ---
 title: 'Roll-up / Roll up / 롤업'
 date: 2022-09-17 17:05:18
-category: 'CS'
+category: 'Javascript'
 draft: false
 ---
 
